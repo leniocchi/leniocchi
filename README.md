@@ -3,7 +3,3 @@ I'm a web developer from germany with strong skills in modern web development, s
 
 # Recent Work:
 My latest project involved developing a comprehensive sports club website using a modern tech stack including Strapi (headless CMS), Nuxt.js, and Vue.js, combining powerful content management with a seamless user experience.<br>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=leniocchi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=leniocchi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
